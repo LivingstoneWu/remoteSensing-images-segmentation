@@ -21,4 +21,5 @@ The NDVI (Normalized Difference Vegetation Index) was added into the spectral da
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/52390858/144870638-08aa9ead-3972-4794-85cf-25b8c0202b96.png">
 <center style="font-size:14px;color:#C0C0C0"> The classification result</center>
 
+<br/>Notice that, the water are identified through NDVI.
 ### 3.2 
